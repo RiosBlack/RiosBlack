@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá, eu sou Douglas Rios
 
-<!--
-**RiosBlack/RiosBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Desenvolvedor Full Stack Junior.
+- 🚀 Tenho conhecimento em HTML, CSS, JavaScript, TypeScript, ReactJS, VueJs, Next.js, Java, Spring Boot, Tailwind CSS, Node.js, RESTful API, MySQL, PostgreSQL, Aws, Linux!
+- 📧 Contate-me por email: glinhas55@hotmail.com
+- 📲 Contate-me no whatsapp: (75) 98141-4537
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=riosblack)](https://github.com/riosblack/github-readme-profile) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riosblack&layout=compact) 
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,java,spring,tailwind,nodejs,git,mysql,postgres" />
+    </a>
+  </p>
+  <br>
