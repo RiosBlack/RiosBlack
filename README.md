@@ -1,6 +1,6 @@
 ## Olá, eu sou Douglas Rios
 
-- 👨‍💻 Desenvolvedor Full Stack Junior.
+- 👨‍💻 Desenvolvedor Full Stack.
 - 🚀 Tenho conhecimento em HTML, CSS, JavaScript, TypeScript, ReactJS, VueJs, Next.js, Java, Spring Boot, Tailwind CSS, Node.js, RESTful API, MySQL, PostgreSQL, Aws, Linux!
 - 📧 Contate-me por email: glinhas55@hotmail.com
 - 📲 Contate-me no whatsapp: (75) 98141-4537
